@@ -5,7 +5,7 @@ import Heg from "./Heg"
 export default function App() {
   return (
     <>
-      <h1>Bug Busters</h1>
+      <h1>Bug Busters pwopowpwo</h1>
       <Grace />
       <Stefan />
       <Heg />
