@@ -1,5 +1,8 @@
 export default function Grace() {
     return (
-        <div>grace</div>
+        <>
+            <h2>Grace</h2>
+            <p>I love my dog</p>
+        </>
     )
 }
