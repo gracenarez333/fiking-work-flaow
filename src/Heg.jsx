@@ -1,4 +1,4 @@
-export default function heg() {
+export default function Heg() {
     return (
         <div>heg</div>
     )
